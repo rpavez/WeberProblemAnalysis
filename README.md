@@ -12,4 +12,9 @@ https://en.wikipedia.org/wiki/Weber_problem
 ## Real usage
 - yarn start
 
-## TODO: Implement \sum _{{i=1}}^{n}w_{i}\,\|x_{i}-y\|,
+## TODO:
+  - Implement atraction-repulsion calculation
+  - Rank best locations
+  - Load dataSet from external DB
+  - Convert into a microservice
+  - Parallelize requests
