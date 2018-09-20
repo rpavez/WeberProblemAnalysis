@@ -4,13 +4,13 @@ https://en.wikipedia.org/wiki/Weber_problem
 
 ## Instructions
 - Clone the repo
-- yarn (if you dont have yarn npm install -g yarn)
-- cp .env.test  .env and add you Google API Key (Remember enable Google Directions API)
-- cp dataset.test.json dataset.json (Include your own data set here, current data is completely random)
-- yarn dev (will limit to two boxes and two destinations not to overuse API)
+- `yarn` (if you dont have yarn npm install -g yarn)
+- `cp .env.test  .env` and add you Google API Key (Remember enable Google Directions API)
+- `cp dataset.test.json dataset.json` (Include your own data set here, current data is completely random)
+- `yarn dev` (will limit to two boxes and two destinations not to overuse API)
 
 ## Real usage
-- yarn start
+- `yarn start`
 
 ## TODO:
   - Implement atraction-repulsion calculation
