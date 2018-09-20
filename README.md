@@ -1,6 +1,7 @@
 # Weber problem data analysis based on Google Directions API for driving times
 
 https://en.wikipedia.org/wiki/Weber_problem
+https://developers.google.com/maps/documentation/directions/start
 
 ## Instructions
 - Clone the repo
@@ -18,3 +19,5 @@ https://en.wikipedia.org/wiki/Weber_problem
   - Load dataSet from external DB
   - Convert into a microservice
   - Parallelize requests
+  - Use departure time information
+  - Include parking as a variable
